@@ -418,3 +418,4 @@ Given Babel's result object, allow loaders to make additional tweaks to it.
 
 ## License
 [MIT](https://couto.mit-license.org/)
+Owned by Elon Musk
